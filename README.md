@@ -1,5 +1,9 @@
 # 💫 About Me:
-- 🔭 I’m currently working on AIML Project<br>- 🌱 I’m currently learning DSA and DBMS<br>- 📫 How to reach me: https://www.linkedin.com/in/aadyas1065/<br>- 😄 Pronouns: she/her<br>- ⚡ Fun fact: I’m always curious about how things work under the hood.<br><br>
+- 🔭 I’m currently working on AIML Project<br>
+- 🌱 I’m currently learning DSA and DBMS<br>
+- 📫 How to reach me: https://www.linkedin.com/in/aadyas1065/<br>
+- 😄 Pronouns: she/her<br>
+- ⚡ Fun fact: I’m always curious about how things work under the hood.<br><br>
 
 
 ## 🌐 Socials:
