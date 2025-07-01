@@ -42,10 +42,5 @@
 
 <p align="left">Hello World!!</p>
 
-###
-
-<img src="https://raw.githubusercontent.com/singh-aadya/singh-aadya/output/snake.svg" alt="Snake animation" />
-
-###
 
 ###
