@@ -40,7 +40,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 
-<p align="left">Hello World!!</p>
+###
+
+<img src="https://raw.githubusercontent.com/singh-aadya/singh-aadya/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 ###
