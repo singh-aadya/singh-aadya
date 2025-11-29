@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on AIML Project<br>
+- 🔭 I’m currently working on Web Development Project<br>
 - 🌱 I’m currently learning DSA and DBMS<br>
 - 📫 How to reach me: https://www.linkedin.com/in/aadyas1065/<br>
 - 😄 Pronouns: she/her<br>
