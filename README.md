@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 🔭 I’m currently working on Web Development Project<br>
-- 🌱 I’m currently learning DSA and DBMS<br>
+- 🌱 I’m currently learning DSA and Web Development<br>
 - 📫 How to reach me: https://www.linkedin.com/in/aadyas1065/<br>
 - 😄 Pronouns: she/her<br>
 - ⚡ Fun fact: I’m always curious about how things work under the hood.<br><br>
